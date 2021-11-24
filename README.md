@@ -1,4 +1,4 @@
-# chipa-bot
+# Chipa-bot
 
 ![logo](https://i.imgur.com/0KvOXjK.png)
 
